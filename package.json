@@ -1,0 +1,28 @@
+{
+  "name": "merge-cat",
+  "version": "0.0.0",
+  "description": "WIP - nothing to see here",
+  "main": "index.js",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "pump": "^1.0.1",
+    "sorted-merge-stream": "^1.0.1",
+    "split2": "^2.1.0"
+  },
+  "devDependencies": {
+    "standard": "^7.1.2"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/merge-cat.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/merge-cat/issues"
+  },
+  "homepage": "https://github.com/mafintosh/merge-cat"
+}
